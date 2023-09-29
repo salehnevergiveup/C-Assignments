@@ -1,0 +1,247 @@
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.exe
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.dll.config
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.deps.json
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.runtimeconfig.json
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Add_receptionist.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.addtutor.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Assign_Subject.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.LoginForm.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Properties.Resources.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Receptionist.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.TUTORLIST.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdatePrfile.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.View_report.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ViewFullreport.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ViewProfile.resources
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.AssemblyInfo.cs
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.CopyComplete
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\refint\ADMIN PAGE.dll
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.genruntimeconfig.cache
+C:\Users\User\source\repos\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ref\ADMIN PAGE.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.exe
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.dll.config
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.deps.json
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.runtimeconfig.json
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Add_receptionist.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AddStudent.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.addtutor.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AdminReceptionist.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AdminViewProfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Assign_Subject.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.changePassword.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.CheckPayment.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Add_Class_Information.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.frm_Update_and_Delete.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Update_Class_Information.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Update_Profile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.frm_View_My_Class_Schedule.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_View_Students_Details.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.LoginForm.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.MakeRequest.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Payment.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ProfileRec.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Properties.Resources.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.receipt.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.RecepUpdateProfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.StudentDataModifcation.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.StudentRequests.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.STUDENTViewProfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Studentviewsche.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.TUTORLIST.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdatePrfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdateStudentProfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdateSubjects.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.View_report.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ViewFullreport.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ViewRequests.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.AssemblyInfo.cs
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.CopyComplete
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\refint\ADMIN PAGE.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.genruntimeconfig.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\ADMIN PAGE lasst 2\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ref\ADMIN PAGE.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.exe
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.dll.config
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.deps.json
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.runtimeconfig.json
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Add_receptionist.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AddStudent.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.addtutor.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AdminReceptionist.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AdminViewProfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Assign_Subject.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.changePassword.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.CheckPayment.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Add_Class_Information.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.frm_Update_and_Delete.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Update_Class_Information.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Update_Profile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.frm_View_My_Class_Schedule.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_View_Students_Details.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.LoginForm.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.MakeRequest.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Payment.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ProfileRec.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Properties.Resources.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.receipt.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.RecepUpdateProfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.StudentDataModifcation.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.StudentRequests.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.STUDENTViewProfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Studentviewsche.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.TUTORLIST.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdatePrfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdateStudentProfile.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdateSubjects.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.View_report.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ViewFullreport.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ViewRequests.resources
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.AssemblyInfo.cs
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.CopyComplete
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\refint\ADMIN PAGE.dll
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.genruntimeconfig.cache
+C:\Users\User\OneDrive - Asia Pacific University\IOOP\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ref\ADMIN PAGE.dll
+C:\Users\user\Downloads\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\user\Downloads\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\refint\ADMIN PAGE.dll
+C:\Users\user\Downloads\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.exe
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.dll.config
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.deps.json
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.runtimeconfig.json
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Add_receptionist.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AddStudent.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.addtutor.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AdminReceptionist.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.AdminViewProfile.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Assign_Subject.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.changePassword.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.CheckPayment.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Add_Class_Information.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.frm_Update_and_Delete.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Update_Class_Information.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_Update_Profile.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.frm_View_My_Class_Schedule.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Frm_View_Students_Details.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.LoginForm.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.MakeRequest.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Payment.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ProfileRec.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Properties.Resources.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.receipt.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.RecepUpdateProfile.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.StudentDataModifcation.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.StudentRequests.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.STUDENTViewProfile.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.Studentviewsche.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.TUTORLIST.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdatePrfile.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdateStudentProfile.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.UpdateSubjects.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.View_report.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ViewFullreport.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN_PAGE.ViewRequests.resources
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.AssemblyInfo.cs
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.csproj.CopyComplete
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\refint\ADMIN PAGE.dll
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.pdb
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ADMIN PAGE.genruntimeconfig.cache
+C:\Users\user\OneDrive - Asia Pacific University\Desktop\Group 15 -Zip (1)\IOOP ASSIGNMENT-Zip\IOOP ASSIGNMENT\ADMIN PAGE\ADMIN PAGE\obj\Debug\net6.0-windows\ref\ADMIN PAGE.dll
